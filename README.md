@@ -1,4 +1,4 @@
-# movies-recommendation-system
+# Movies Recommendation System
 The following models are developed to recommend movies to the user:
 ## 1. Collaborative Filtering
 * User Based
